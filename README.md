@@ -1,8 +1,8 @@
 
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
 ```
-REG NUMBER: 212223040187
-NAME: SANJUSHRI A
+REG NUMBER: 212223040139
+NAME: Oswald Shilo
 ```
 ## Aim:
 To move the files between virtual machine.
